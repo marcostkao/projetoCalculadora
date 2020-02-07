@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(51, 51, 51);
+}
+
+
+.calculadora{
+    display: flex;
+    position: center;
+    padding: 20px;
+    background-color: silver;
+    font-size: 2em;
+}
+
+.botao-estilo{
+   
+}
